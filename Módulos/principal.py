@@ -1,4 +1,4 @@
-# Modulação em Python, crie suas próprias bibliotecas/pacotes
+# Modulação em Python, crie suas próprias módulos/pacotes
 
 # para isso, precisamos de arquivos.pyc para rodar os códigos
 # o VS-Code já automatiza isso criando a pasta __pycache__ com todos os arquivos necessários

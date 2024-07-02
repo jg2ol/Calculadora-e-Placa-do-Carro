@@ -1,4 +1,5 @@
 # arquivo onde criamos nossas funções que queremos utilzar em toda a nossa experiência
+# Arquivo que guarda funções para números.
 
 def fatorial(n):
     fat = 1
